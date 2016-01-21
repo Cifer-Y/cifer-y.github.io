@@ -1,0 +1,13 @@
+# Document:
+# http://simiki.org/docs/configuration.html
+
+url:
+title: Cifer-Wiki
+keywords:
+description:
+author: Cifer
+
+deploy:
+  - type: git
+    remote: git@github.com:Cifer-Y/mywiki.git
+    brakch: gh-pages
