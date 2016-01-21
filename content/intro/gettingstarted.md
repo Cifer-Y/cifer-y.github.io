@@ -25,28 +25,28 @@ Simiki is short for `Simple Wiki` :)
 
 ### Install ###
 
-	pip install simiki
+    pip install simiki
 
 ### Update ###
 
-	pip install -U simiki
+    pip install -U simiki
 
 ### Init Site ###
 
-	mkdir mywiki && cd mywiki
-	simiki init
+    mkdir mywiki && cd mywiki
+    simiki init
 
 ### Create a new wiki ###
 
-	simiki new -t "Hello Simiki" -c first-catetory
+    simiki new -t "Hello Simiki" -c first-catetory
 
 ### Generate ###
 
-	simiki generate
+    simiki generate
 
 ### Preview ###
 
-	simiki preview
+    simiki preview
 
 For more information, `simiki -h` or have a look at [Simiki.org](http://simiki.org)
 
@@ -57,6 +57,9 @@ For more information, `simiki -h` or have a look at [Simiki.org](http://simiki.o
 * Email: <me@tankywoo.com>
 
 ## License ##
+
+## Test ##
+* Cifer
 
 The MIT License (MIT)
 
